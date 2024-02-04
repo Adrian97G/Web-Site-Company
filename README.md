@@ -11,7 +11,7 @@ This is a company website where they show us the services about the technologica
 
 ## :camera_flash: Project Image
 
-![My Project]()
+![My Project](https://github.com/Adrian97G/Web-Site-Company/blob/main/Images/Web%20Page%20Company.png)
 
 ## :link: Link to see the project in action
 
